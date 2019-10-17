@@ -6,7 +6,7 @@ defined('ABSPATH') || exit();
  * Plugin Name: Tolstoy Comments
  * Plugin URI: https://tolstoycomments.com/
  * Description: Replace the standard WordPress comment system on Tolstoy Comments.
- * Version: 2.0
+ * Version: 2.1
  * Author: DEVLEVR
  * Author URI: https://tolstoycomments.com/
  * Text Domain: tolstoycomments
